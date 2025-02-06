@@ -1,7 +1,6 @@
 
 import React from 'react'
 import Link from 'next/link'
-import image from 'next/image'
 
 
 function Hero() {
